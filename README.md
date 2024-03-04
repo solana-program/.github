@@ -1,1 +1,1 @@
-# .github
+# Solana Program
